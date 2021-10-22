@@ -17,8 +17,11 @@ En este proyecto nos enfocaremos en el método de cifrado afín. Es un cifrado p
 
 # Diapositivas
 
-Podra encontrar las diapositivas hacerca del encriptado de texto medianate el metodo afin haciento click en el siguiente enlace: https://github.com/danny2768/Encriptado-de-texto-mediante-el-metodo-afin/blob/main/Cifrado%20de%20texto%20mediante%20el%20m%C3%A9todo%20af%C3%ADn.pptx.
+Podra encontrar las diapositivas hacerca del encriptado de texto medianate el metodo afin haciento click en la siguiente imagen.
 
+<a style="float:right" href="Pdf/Cifrado de texto mediante el método afín.pdf" target="_blank">
+  <img alt="imagen" src="Imagen.png" width="500" height="300" />
+</a>
 # Video proyecto
 <a style="float:right" href="https://www.youtube.com/watch?v=UWE6XRJ34ww" target="_blank">
   <img alt="Cifrado de texto" src="Cifrado de texto.png" width="800" height="480" />
