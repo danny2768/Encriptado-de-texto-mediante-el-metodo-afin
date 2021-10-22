@@ -28,7 +28,7 @@ Podra encontrar las diapositivas hacerca del encriptado de texto medianate el me
 </a>
 
 # Codigo
-Puedo encontrar el codigo del proyecto y una breve explicacion del método afín en el siguiente enlace: https://github.com/danny2768/Encriptado-de-texto-mediante-el-metodo-afin/blob/main/ProyectoAutomatasFinall.ipynb.
+Puedo encontrar el codigo del proyecto y una breve explicacion del método afín en el siguiente enlace: https://github.com/danny2768/Encriptado-de-texto-mediante-el-metodo-afin/blob/main/ProyectoFinal.ipynb.
 
 # Maquina de turing
 <img alt="MaquinaTuring" src="DiagramaMaquinaTuring.png" width="800" height="480" />
