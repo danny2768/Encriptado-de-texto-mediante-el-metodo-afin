@@ -15,10 +15,15 @@ Antiguamente los mensajes se encriptaban con métodos sencillos como, por ejempl
 
 En este proyecto nos enfocaremos en el método de cifrado afín. Es un cifrado por sustitucion mono-alfabético en el cual cada carácter del mensaje se le aplica una funcion matematica afín (ax + b) en aritmetica modular. Para que un cifrado sea mono-alfabético cada letra del texto claro debe corresponder a una letra encriptada, siendo esto una correspondencia biunévoca.
 
+# Diapositivas
+
+Podra encontrar las diapositivas hacerca del encriptado de texto medianate el metodo afin haciento click en el siguiente enlace: https://github.com/danny2768/Encriptado-de-texto-mediante-el-metodo-afin/blob/main/Cifrado%20de%20texto%20mediante%20el%20m%C3%A9todo%20af%C3%ADn.pptx.
+
 # Video proyecto
 <a style="float:right" href="https://www.youtube.com/watch?v=UWE6XRJ34ww" target="_blank">
   <img alt="Cifrado de texto" src="Cifrado de texto.png" width="800" height="480" />
 </a>
 
 # Codigo
-Puedo encontrar el codigo del proyecto y una breve explicacion del método afín en el siguiente enlace: https://github.com/danny2768/Encriptado-de-texto-mediante-el-metodo-afin/blob/main/ProyectoAutomatasFinall.ipynb
+Puedo encontrar el codigo del proyecto y una breve explicacion del método afín en el siguiente enlace: https://github.com/danny2768/Encriptado-de-texto-mediante-el-metodo-afin/blob/main/ProyectoAutomatasFinall.ipynb.
+
