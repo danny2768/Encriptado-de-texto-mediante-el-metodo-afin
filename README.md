@@ -17,5 +17,8 @@ En este proyecto nos enfocaremos en el método de cifrado afín. Es un cifrado p
 
 # Video proyecto
 <a style="float:right" href="https://www.youtube.com/watch?v=UWE6XRJ34ww" target="_blank">
-  <img alt="Cifrado de texto" src="Cifrado de texto.png" width="950" height="700" />
+  <img alt="Cifrado de texto" src="Cifrado de texto.png" width="800" height="480" />
 </a>
+
+# Codigo
+Puedo encontrar el codigo del proyecto en el siguiente enlace: https://github.com/danny2768/Encriptado-de-texto-mediante-el-metodo-afin/blob/main/ProyectoAutomatasFinall.ipynb
