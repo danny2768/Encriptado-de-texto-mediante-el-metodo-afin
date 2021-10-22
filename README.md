@@ -17,5 +17,5 @@ En este proyecto nos enfocaremos en el método de cifrado afín. Es un cifrado p
 
 # Video proyecto
 <a style="float:right" href="https://www.youtube.com/watch?v=UWE6XRJ34ww" target="_blank">
-  <img alt="Cifrado de texto" src="Cifrado de texto.png" width="1000" height="700" />
+  <img alt="Cifrado de texto" src="Cifrado de texto.png" width="950" height="700" />
 </a>
