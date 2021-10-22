@@ -16,6 +16,6 @@ Antiguamente los mensajes se encriptaban con métodos sencillos como, por ejempl
 En este proyecto nos enfocaremos en el método de cifrado afín. Es un cifrado por sustitucion mono-alfabético en el cual cada carácter del mensaje se le aplica una funcion matematica afín (ax + b) en aritmetica modular. Para que un cifrado sea mono-alfabético cada letra del texto claro debe corresponder a una letra encriptada, siendo esto una correspondencia biunévoca.
 
 # Video proyecto
-<a style="float:right" href="http://screencast.com/t/FlWlTPS8XKrI" target="_blank">
-  <img alt="PicSciP Demo Video" src="https://github.com/mattdipasquale/PicSciP/raw/master/screenshot.png" width="276" height="537" />
+<a style="float:right" href="https://www.youtube.com/watch?v=UWE6XRJ34ww" target="_blank">
+  <img alt="Cifrado de texto" src="Cifrado de texto.png" width="1000" height="700" />
 </a>
